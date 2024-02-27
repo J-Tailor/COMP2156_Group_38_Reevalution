@@ -2,5 +2,5 @@ information about COMP 2156
 student name: Igor Simch
 College location: Casa Loma 
 Course: Computer System technician T147
-Starting date: Sept-2022
+Start date: Sept-2022
 Conclusion date: April-2024
