@@ -1,0 +1,4 @@
+This file contain info about the importence of Devops
+It is very usefull for frontend and backend development
+It's community is also very strong
+
