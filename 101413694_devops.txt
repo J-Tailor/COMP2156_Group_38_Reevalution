@@ -1,3 +1,5 @@
 This is our dev ops course 
 it is low key kinda fun
-Devops is cool and has so many uses 
+Devops is cool and has so many uses
+our prof's name is Pritesh Patel
+so far we have done 6 labs and they all were very fun 
