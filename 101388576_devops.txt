@@ -1,1 +1,2 @@
 I learned about GitHub and how to commit and push.
+In GitHub we can work with group.
