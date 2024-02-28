@@ -1,0 +1,10 @@
+This is our dev ops course 
+it is low key kinda fun
+Devops is cool and has so many uses
+our prof's name is Pritesh Patel
+so far we have done 6 labs and they all were very fun 
+In software development, mastering DevOps is essential for fostering collaboration between development and operations teams.
+DevOps engineers automate processes, enable continuous integration and delivery, and promote efficient communication.
+Proficiency in DevOps accelerates development cycles, ensures faster deployments, and enhances overall software quality,
+ultimately allowing organizations to adapt to market demands and maintain a competitive edge in the dynamic landscape of
+technology.
