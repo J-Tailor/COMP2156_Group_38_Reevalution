@@ -1,1 +1,2 @@
 In Comp2156 I am learning stuff related GitHub. We were assigned to make our repo their which can be used in future
+In addition to that we are given assignment where we all have to make our own branch and add that branch to main branch of our group.
