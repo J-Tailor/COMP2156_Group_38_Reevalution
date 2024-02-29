@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 This is my branch 
-I have already made all the nessary files for this branch
+I have already made all the necessary files for this branch
 Thanks for seeing my branch :) 
 =======
 This is comp2156 Assignment 
