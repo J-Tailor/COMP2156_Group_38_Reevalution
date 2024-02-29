@@ -1,0 +1,2 @@
+It is very important in modern software development.
+It improve deployment frequency and stability.
